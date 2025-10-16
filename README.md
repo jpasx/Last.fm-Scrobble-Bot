@@ -16,8 +16,8 @@ Antes de começar, você precisará de:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone <URL-DO-SEU-REPOSITORIO>
-    cd <NOME-DO-SEU-REPOSITORIO>
+    git clone <URL-DO-REPOSITORIO>
+    cd <NOME-DO-REPOSITORIO>
     ```
 
 2.  **Instale as dependências:**
