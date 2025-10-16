@@ -50,29 +50,6 @@ Com tudo instalado e configurado, execute o script principal:
 ```bash
 python bot.py
 
-
-Na primeira vez que você executar:
-
-    O script pedirá sua API Key e seu Shared Secret (que você obteve no passo anterior).
-
-    Ele gerará um link de autorização no terminal. Copie este link e cole-o no seu navegador.
-
-    Faça login no Last.fm (se necessário) e clique em "Yes, allow access".
-
-    Volte para o terminal e pressione ENTER.
-
-    Pronto! Sua sessão será criada e salva no arquivo session.txt para que você não precise mais repetir este processo.
-
-Para fazer scrobbles:
-
-Após a autorização, o bot ficará pronto para receber seus comandos:
-
-    Digite o nome do Artista e pressione ENTER.
-
-    Digite o nome da Música e pressione ENTER.
-
-    Digite quantos scrobbles você deseja enviar e pressione ENTER.
-
     Acompanhe o envio em tempo real no terminal.
 
 Para encerrar o programa, basta digitar sair quando ele pedir o nome do artista.
